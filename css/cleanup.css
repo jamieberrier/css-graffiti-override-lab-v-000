@@ -19,10 +19,3 @@ body #wall #tag-4 {
 .parent {
   display: none;
 }
-/*
-body #wall .parent :last-child #tag-6 {
-  display: none;
-}
-body div#wall div.parent div > #tag-7.slick {
-  display: none;
-}*/
