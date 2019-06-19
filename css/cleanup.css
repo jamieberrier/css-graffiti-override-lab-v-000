@@ -17,7 +17,11 @@ div#wall #tag-3 {
 body #wall #tag-4 {
   display: none;
 }*/
-/* 3 tags */
+/* 3 tags
+div#wall .parent #tag-5.slick
+div#wall div.parent div:last-child div#tag-6
+body div#wall div.parent div > #tag-7.slick
+*/
 .parent {
   display: none;
 }
