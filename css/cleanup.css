@@ -16,6 +16,6 @@ body #wall #tag-4 {
   display: none;
 }*/
 /* 3 tags */
-.parent {
+.parent * {
   display: none;
 }
