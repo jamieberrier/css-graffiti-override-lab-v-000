@@ -11,9 +11,9 @@ body #wall #tag-2 {
 body #wall #tag-4 {
   display: none;
 }
-.parent {
+/*.parent {
   display: none;
-}
+}*/
 body #wall .parent :last-child #tag-6 {
   display: none;
 }
